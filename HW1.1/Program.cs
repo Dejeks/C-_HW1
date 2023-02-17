@@ -7,8 +7,6 @@ int b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите 3ое число: ");
 int c = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите 3ое число: ");
-int c = Convert.ToInt32(Console.ReadLine());
 
 if (a >= b & a >= c)
 {
@@ -19,4 +17,4 @@ else if (b >= a & b >= c)
     Console.WriteLine(b);
 }
 else
-    Console.WriteLine(c);
+{Console.WriteLine(c);}
