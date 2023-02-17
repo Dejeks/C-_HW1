@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\HW1.2\\HW1.2.csproj": {}
+    "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\hw1.2\\HW1.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\HW1.2\\HW1.2.csproj": {
+    "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\hw1.2\\HW1.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\HW1.2\\HW1.2.csproj",
+        "projectUniqueName": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\hw1.2\\HW1.2.csproj",
         "projectName": "HW1.2",
-        "projectPath": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\HW1.2\\HW1.2.csproj",
+        "projectPath": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\hw1.2\\HW1.2.csproj",
         "packagesPath": "C:\\Users\\dejek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\HW1.2\\obj\\",
+        "outputPath": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\hw1.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dejek\\AppData\\Roaming\\NuGet\\NuGet.Config",
